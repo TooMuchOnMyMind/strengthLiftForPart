@@ -1,1 +1,4 @@
-# strengthLiftForPart
+# Hello hiddendevs moderator! This is my line by line explaination for my code!
+Heres how it looked in studio
+![Studio Screenshot](https://imgur.com/a/AQmJA5M)
+
